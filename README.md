@@ -1,2 +1,2 @@
 # Java-Full-Stack-Certification
-I have completed my JAVA FULL STACK Certification at JSPIDERS ,IN HYDERABAD.
+I have completed my JAVA FULL STACK Course at JSPIDERS ,IN HYDERABAD.
